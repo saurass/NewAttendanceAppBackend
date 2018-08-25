@@ -1,0 +1,20 @@
+{
+  "name": "new-portal-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "author": "saurass",
+  "license": "ISC",
+  "dependencies": {
+    "mysql": "^2.16.0",
+    "pusher": "^2.1.3",
+    "pusher-js": "^4.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.3"
+  }
+}
